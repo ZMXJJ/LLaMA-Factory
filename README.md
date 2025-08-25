@@ -288,7 +288,7 @@ Choose your path:
 | [LLaVA-NeXT-Video](https://huggingface.co/llava-hf)               | 7B/34B                           | llava_next_video    |
 | [MiMo](https://huggingface.co/XiaomiMiMo)                         | 7B                               | mimo                |
 | [MiniCPM](https://huggingface.co/openbmb)                         | 0.5B/1B/2B/4B/8B                 | cpm/cpm3/cpm4       |
-| [MiniCPM-o-2.6/MiniCPM-V-2.6](https://huggingface.co/openbmb)     | 8B                               | minicpm_o/minicpm_v |
+| [MiniCPM-o/MiniCPM-V series](https://huggingface.co/openbmb)      | 8B/4B                            | minicpm_o/minicpm_v |
 | [Ministral/Mistral-Nemo](https://huggingface.co/mistralai)        | 8B/12B                           | ministral           |
 | [Mistral/Mixtral](https://huggingface.co/mistralai)               | 7B/8x7B/8x22B                    | mistral             |
 | [Mistral Small](https://huggingface.co/mistralai)                 | 24B                              | mistral_small       |
